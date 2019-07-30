@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Highlights
-description: A fun gross { responsive } single pager by <a href="http://html5up.net">HTML5 UP</a>
+title: Tabasso Open Cinema
+description: film di un certo spessore
 ---
